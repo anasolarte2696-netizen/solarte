@@ -1,3 +1,4 @@
+```mermaid
 flowchart TD
 A[Inicio de preparación de pan] --> B[Llegan pedidos]
 B --> C[Preparar bandejas de pan]
@@ -13,3 +14,4 @@ K --> D
 J -->|No| L[Detener preparación temporalmente]
 L --> M[Esperar espacio disponible]
 M --> I
+```
